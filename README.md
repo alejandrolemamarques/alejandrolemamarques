@@ -22,4 +22,4 @@
 ---
 
 ### 💬 Let's connect
-📫 [LinkedIn](www.linkedin.com/in/alejandro-lema-marques-4a947a8b) · [Portfolio](https://alejandrolemamarques.github.io/) · [Email](mailto:alejandrolemamarques@gmail.com)
+📫 [LinkedIn](www.linkedin.com/in/alejandro-lema-marques-4a947a8b) · [Portfolio](https://alejandrolemamarques.github.io/portfolio-alex/) · [Email](mailto:alejandrolemamarques@gmail.com)
